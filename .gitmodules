@@ -1,0 +1,3 @@
+[submodule "umbraxia/lib/forge-std"]
+	path = umbraxia/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
